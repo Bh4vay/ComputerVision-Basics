@@ -1,7 +1,7 @@
-OpenCV Basics
-Welcome to my OpenCV Basics repository! Here, I've documented some of my basic OpenCV projects where I explore fundamental functionalities such as drawing, image reading, manipulation, and webcam capturing.
+OpenCV Basics<br>
+Welcome to my OpenCV Basics repository! Here, I've documented some of my basic OpenCV projects where I explore fundamental functionalities such as drawing, image reading, manipulation, and webcam capturing. <br>
 
-Table of Contents
+Table of Contents:
 Introduction
 Projects
 1. Drawing
